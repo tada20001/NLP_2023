@@ -1,7 +1,6 @@
-util_tutorial.py
-large_files/
 .ipynb_checkpoints/
 *.zip
 *.csv
-*.ipynb
-test.py
+*.txt
+*.model
+*.vocab
